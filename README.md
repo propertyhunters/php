@@ -1,2 +1,2 @@
-# php_Html_css
-I developed this project by using php, html, css. to see the website visit http://localhost/realestate/properties.php
+# PHP_HTML_CSS
+I developed this project by using php, html, css. To see the website visit http://localhost/realestate/properties.php
